@@ -1,2 +1,4 @@
 Usernamme 
 Password
+Email
+Phone number
